@@ -1,2 +1,2 @@
 # lalit
-my first repo
+My mini projects 
